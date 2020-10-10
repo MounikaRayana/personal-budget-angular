@@ -5,7 +5,6 @@ const port = 3000;
 
 app.use(cors());
 //app.use('/', express.static('public'));
-//'use strict';
 
 const budget = require('./budget.json');
 
